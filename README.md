@@ -2,13 +2,13 @@
 
 ## Introduction
 
-**[Magento 2 Gift Card extension by Mageplaza](https://www.mageplaza.com/magento-2-gift-card-extension/)** helps your shoppers get the most fantastic presents for their friends, family members, and colleagues. Shoppers freely design [their gifts](https://marketplace.magento.com/extensions/sales/gifts.html) and send them either by email or print out then delivery by the post office.
+**[Magento 2 Gift Card extension by Mageplaza](https://www.mageplaza.com/magento-2-gift-card-extension/)** helps your shoppers get the most fantastic presents for their friends, family members, and colleagues. Shoppers freely design their gifts and send them either by email or print out then delivery by the post office.
 
 *This project moved to [Mageplaza page](https://www.mageplaza.com/magento-2-gift-card-extension/) and no longer download from Github.*
 
 <img  src="https://i.imgur.com/jStrLAa.png" alt="Mageplaza Gift Card Voucher" class="responsive-img lazy"> 
 
-### Highlight Features of Mageplaza Gift Voucher
+### Highlight Features of Magento 2 Gift Voucher
 - Physical, virtual or combined gift cards
 - Different gift card values from prices(fixed price, price range, price dropdown)
 - Send cards via email or post office
@@ -17,7 +17,7 @@
 - Eye-catching gift card templates
 - Compatible with custom designs, themes
 
-### Why need to choose Magento 2 Gift Card extension?
+### Why need to choose Gift Voucher Magento 2 extension?
 
 - 71% intend to purchase at least one gift card from an online website or mobile website/app this holiday season, while 74% agree that they are likely to purchase at least one digital gift card
 - 85% of respondents between 18-35 agree that they’re likely to purchase at least one digital gift card this holiday season
@@ -35,9 +35,9 @@ As usual, A fully responsive design will help your shoppers comfortably access y
 
 ### Eye-catching templates
 
-Your [Magento](https://magento.com) shoppers will be definitely excited with a lot of eye-catching templates for choosing. The template will appear instantly when being clicked on by shoppers to preview. Moreover, Your shoppers can also upload their prefer image instead of using default templates.
+Your shoppers will be definitely excited with a lot of eye-catching templates for choosing. The template will appear instantly when being clicked on by shoppers to preview. Moreover, Your shoppers can also upload their prefer image instead of using default templates.
 
-<img  src="https://i.imgur.com/bqDEgkd.png" alt="Mageplaza Gift Card Voucher" class="responsive-img lazy">
+<img  src="https://i.imgur.com/PeCsylK.png" alt="Mageplaza Gift Card Voucher" class="responsive-img lazy">
 
 ### Generating unlimited gift codes
 
@@ -47,17 +47,17 @@ Mageplaza Gift Card extension allows you to create thousands of gift codes. Stor
 
 Gift Card extension support 3 types of gift card for your visitors to choose: physical, virtual and combined gift cards. These 3 types of the gift card are adaptable and suitable for every shopper in every situation. Either your shoppers want to send their gift card through email or post office, Gift Card extension absolutely can do it for them.
 
-### Magento 2 Gift Message
+### Gift Message
 
 An e-gift card plays a role as both gift voucher and postcard for your customers. Therefore, Gift Card extension allows shoppers to write wishes and gift message before sending.
 
-<img  src="https://i.imgur.com/nbc29el.png" alt="magento 2 gift card gift message" class="responsive-img lazy">
+<img  src="https://i.imgur.com/wQYgw6P.png" alt="magento 2 gift card gift message" class="responsive-img lazy">
 
 ### Gift card store credit
 
 If your shoppers do not like a one-size-fits-all gift voucher, Magento 2 Gift Card extension assist you on establishing gift card credit which is used as same as a credit card in your store. In addition, store admin can enable shoppers to redeem gift codes to their account balance in the backend.
 
-<img  src="https://i.imgur.com/gjddlMU.png" alt="Magento 2 Gift Card Store Credit" class="responsive-img lazy">
+<img  src="https://i.imgur.com/sgTV73W.png" alt="Magento 2 Gift Card Store Credit" class="responsive-img lazy">
 
 ## Full Features List
 
