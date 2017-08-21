@@ -2,7 +2,7 @@
 
 ## Introduction
 
-**[Magento 2 Gift Card extension by Mageplaza](https://www.mageplaza.com/magento-2-gift-card-extension/)** helps your shoppers get the most fantastic presents for their friends, family members, and colleagues. Shoppers freely design their gifts and send them either by email or print out then delivery by the post office.
+**[Magento 2 Gift Card extension by Mageplaza](https://www.mageplaza.com/magento-2-gift-card-extension/)** helps your shoppers get the most fantastic presents for their friends, family members, and colleagues. Shoppers freely design [their gifts](https://marketplace.magento.com/extensions/sales/gifts.html) and send them either by email or print out then delivery by the post office.
 
 *This project moved to [Mageplaza page](https://www.mageplaza.com/magento-2-gift-card-extension/) and no longer download from Github.*
 
@@ -35,7 +35,7 @@ As usual, A fully responsive design will help your shoppers comfortably access y
 
 ### Eye-catching templates
 
-Your shoppers will be definitely excited with a lot of eye-catching templates for choosing. The template will appear instantly when being clicked on by shoppers to preview. Moreover, Your shoppers can also upload their prefer image instead of using default templates.
+Your [Magento](https://magento.com) shoppers will be definitely excited with a lot of eye-catching templates for choosing. The template will appear instantly when being clicked on by shoppers to preview. Moreover, Your shoppers can also upload their prefer image instead of using default templates.
 
 <img  src="https://i.imgur.com/bqDEgkd.png" alt="Mageplaza Gift Card Voucher" class="responsive-img lazy">
 
@@ -47,7 +47,7 @@ Mageplaza Gift Card extension allows you to create thousands of gift codes. Stor
 
 Gift Card extension support 3 types of gift card for your visitors to choose: physical, virtual and combined gift cards. These 3 types of the gift card are adaptable and suitable for every shopper in every situation. Either your shoppers want to send their gift card through email or post office, Gift Card extension absolutely can do it for them.
 
-### Gift Message
+### Magento 2 Gift Message
 
 An e-gift card plays a role as both gift voucher and postcard for your customers. Therefore, Gift Card extension allows shoppers to write wishes and gift message before sending.
 
