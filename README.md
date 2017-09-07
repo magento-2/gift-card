@@ -8,8 +8,6 @@ Once again, you want more advanced choices in your branding campaign? Want your 
 
 It’s our pleasure to introduce this brand new **[Magento 2 Gift Cards Extension](https://www.mageplaza.com/magento-2-gift-card-extension/)**.
 
-<img  src="https://i.imgur.com/jStrLAa.png" alt="Mageplaza Gift Card Voucher" class="responsive-img lazy"> 
-
 ## Overview
 
 **Magento 2 Gift Card** would glad to help your shoppers send kindly gifts to their family members, friends or colleagues. A gift card can be freely design, sent via mails or printed out under physical form. This extension will be an attractive choice for both admins and shoppers because of the various convenience in configuration and usage. 
