@@ -1,161 +1,110 @@
 # Magento 2 Gift Card | Gift Voucher extension by Mageplaza
 
-## Introduction
+## Problems
 
-**[Magento 2 Gift Card extension by Mageplaza](https://www.mageplaza.com/magento-2-gift-card-extension/)** helps your shoppers get the most fantastic presents for their friends, family members, and colleagues. Shoppers freely design their gifts and send them either by email or print out then delivery by the post office.
+Let’s just conclude to one thing: Gift card is one of the most favourite existence for presents that make sense, especially for distance relationships, or with advertising campaigns from one person to thousands of customers. Gift cards are elegant, friendly, intelligent, convenient and can’t fail to mention the flexible ability to use and its practical. So tell me, why not?
 
-*This project moved to [Mageplaza page](https://www.mageplaza.com/magento-2-gift-card-extension/) and no longer download from Github.*
+Once again, you want more advanced choices in your branding campaign? Want your gift card to be optimized about usage and design? Want to occupy a large market share of people who have needs regarding Gift Card?
+
+It’s our pleasure to introduce this brand new **[Magento 2 Gift Cards Extension](https://www.mageplaza.com/magento-2-gift-card-extension/)**.
 
 <img  src="https://i.imgur.com/jStrLAa.png" alt="Mageplaza Gift Card Voucher" class="responsive-img lazy"> 
 
-### Highlight Features of Magento 2 Gift Voucher
-- Physical, virtual or combined gift cards
-- Different gift card values from prices(fixed price, price range, price dropdown)
-- Send cards via email or post office
-- Personal message
-- Tracking gift codes
-- Eye-catching gift card templates
-- Compatible with custom designs, themes
+## Overview
 
-### Why need to choose Gift Voucher Magento 2 extension?
+**Magento 2 Gift Card** would glad to help your shoppers send kindly gifts to their family members, friends or colleagues. A gift card can be freely design, sent via mails or printed out under physical form. This extension will be an attractive choice for both admins and shoppers because of the various convenience in configuration and usage. 
 
-- 71% intend to purchase at least one gift card from an online website or mobile website/app this holiday season, while 74% agree that they are likely to purchase at least one digital gift card
-- 85% of respondents between 18-35 agree that they’re likely to purchase at least one digital gift card this holiday season
-- Of those who intend to purchase gift cards from online websites or mobile websites/apps this holiday season, nearly 20% plan to purchase 5 or more gift cards; 73% between 2-5
-- Nearly 90% of respondents between 18-35 agree that they are more interested in purchasing digital gift cards now than they were two to three years ago
-- 77% of respondents between 18-35 prefer to have a digital gift card scanned from their phone rather than carry an email printout
-- 53% of total respondents, and 79% of those between 18-35, are interested in storing and using gift cards on their phones
-- 55% of total respondents, 79% of those between 18-35, agree that they’re interested in storing digital gift cards on their phone for self-use
-- Nearly 23% of those who have purchased gift cards from online websites or mobile websites/apps purchase 5-10 cards annually
+*This project moved to [Mageplaza page](https://www.mageplaza.com/magento-2-gift-card-extension/) and no longer download from Github.*
 
 ## Features
 
-### Fully responsive
-As usual, A fully responsive design will help your shoppers comfortably access your store by PC, tablets or mobiles.
+### Set values for Gift Cards
 
-### Eye-catching templates
+A gift card can be restricted  value that can be used as payment toward future orders from your online store. You can let your customer set a value for gift cards by fixed price, using a price range or price dropdown. Mageplaza believes this will be a meaningful presents that recipient could choose their favourite items happily.
 
-Your shoppers will be definitely excited with a lot of eye-catching templates for choosing. The template will appear instantly when being clicked on by shoppers to preview. Moreover, Your shoppers can also upload their prefer image instead of using default templates.
+Also, Magento 2 Gift Cards fully supports generate unlimited gift code numbers by admins or import gift code from a CSV file. This gift code’s usage is pretty similar to a discount coupon or a payment method, and can be applied by many people.   
 
-<img  src="https://i.imgur.com/PeCsylK.png" alt="Mageplaza Gift Card Voucher" class="responsive-img lazy">
+<img  src="https://i.imgur.com/vyP667z.png" alt="Mageplaza Gift Card Voucher" class="responsive-img lazy"> 
 
-### Generating unlimited gift codes
+### Flexible Gift Cards form
 
-Mageplaza Gift Card extension allows you to create thousands of gift codes. Store admin can easily generate the code with different value by a few clicks.
+Gift card extension supports 3 types: 
+- Physical 
+- Virtual
+- Combine Gift Cards (which means both Physical and Virtual).
 
-### Send gift cards to friends
+Before adding those to cart, all the gift card could be previewed and usage conditions visually. With printed Physical Gift Cards, you can allow your shoppers use it to shopping in person. Furthermore, such delivery providers like SMS, emails, online messengers as WhatsApp, Viber, Tango, Facebook Messenger or post office to send gift cards. No doubt this will be the most comfortable caring stores can bring up to your customers when using your service.
 
-Gift Card extension support 3 types of gift card for your visitors to choose: physical, virtual and combined gift cards. These 3 types of the gift card are adaptable and suitable for every shopper in every situation. Either your shoppers want to send their gift card through email or post office, Gift Card extension absolutely can do it for them.
+### Personalize Gift Cards
 
-### Gift Message
+With this function Gift card buyers can decorate their own style gift card, by selecting your prepared templates or their prefer image on Gift cards. In additional, you can leave names and a brief lovely message before sending. A fetching Gift card appearance is not a hard task anymore with our Gift Card extension.
 
-An e-gift card plays a role as both gift voucher and postcard for your customers. Therefore, Gift Card extension allows shoppers to write wishes and gift message before sending.
+In configuration, you will be able to use drop-and-drag control to design Gift cards’s looking. 
 
-<img  src="https://i.imgur.com/wQYgw6P.png" alt="magento 2 gift card gift message" class="responsive-img lazy">
+<img  src="https://i.imgur.com/kODI8AJ.png" alt="Mageplaza Gift Card" class="responsive-img lazy"> 
 
 ### Gift card store credit
 
-If your shoppers do not like a one-size-fits-all gift voucher, Magento 2 Gift Card extension assist you on establishing gift card credit which is used as same as a credit card in your store. In addition, store admin can enable shoppers to redeem gift codes to their account balance in the backend.
+A redeem gift code can be added to account’s balance by shopper themselves in the backend in case not everyone fits the mold. Magento 2 Gift Cards additionally allows admins create Gift card credit which considerably is used the same as Credit cards in shopping and place an order.
 
-<img  src="https://i.imgur.com/sgTV73W.png" alt="Magento 2 Gift Card Store Credit" class="responsive-img lazy">
+<img  src="https://i.imgur.com/1V6s3Sa.png" alt="Mageplaza Gift Card Voucher" class="responsive-img lazy"> 
 
-## Full Features List
+### Dealing gift Card with lower prices
 
-### For Customers
-- View Gift Card information without logging in
-- Choose value of the Gift Card in the price range of fix price
-- Choose Gift Card template or upload their image
-- Write gift message for the recipient
-- Inform buyers and recipients name on the Gift Card
-- Choose to send Gift Card by email or post office
-- Choose the date and time zone to send Gift Card
-- Preview Gift Card before adding to cart
-- View Gift Cart usage condition before purchasing
-- Properly buy Gift Card with lower price than its actual value
-- Receive notification when recipients accept the Gift Cards
-- Enable to redeem gift code to Gift Card balance
-- Quickly check and manage gift code
-- Gift code is automatically added to the Gift Card
-- Use gift code as a discount code or a payment method
-- Gift code can be used by multiple people
-- Recipients click on the link in email to add Gift Card to their list
-- Track the status and expiration date of the gift code
+Do you know that the value of material gift card and a digital gift card is unnecessarily be the same amount? With specific e-gift cards, admin store can set an independent amount that shopper can be offered for sale more cheaply than is usual.
 
-### Other features
-- Open source 100%
-- Easy to install and configure
-- User-friendly interface
-- 1-year support
-- 1-year upgrade
-- 30 days guarantee money back
-- Fully compatible with Mageplaza extensions
-- Supports multiple stores
-- Supports multiple languages
+### Fully control Gift cards
 
-### For Admin
-- View Gift Card history
-- Track gift codes, customer Gift Card credit balance, redeemed value, etc
-- Set Gift Card price and its actual value
-- Enable customers to use gift codes, Gift Card credit, redeemed gift codes or not
-- Set the quantity of gift codes of Gift Card products
-- Configure the gift codes
-- Set the usage condition for Gift Card using Shopping Cart Conditions and Cart Item Conditions
-- Display or Hide template selector from customers
-- Check the Gift Card status in the backend to see if it is sent or not
-- Gift Card status is auto-updated
-- Create unlimited Gift Card products
-- Auto-send emails to inform shoppers and recipients about Gift Card
-- Configure the types of price and value for Gift Card: a range, fixed amount or a drop down
-- Enable shoppers to change Gift Card image, logo and message
-- Enable print out Gift Card or not
-- Enable show Gift Card expiration date or not
-- Set the expiration date for Gift Card
+Customers can manage in sending gift card time like setting delivery date and time in advance, but it’s not the real end of dispatch journey, they can also keep track sending status and possibly know if any change happens. Obviously safer feeling will be brought up to customers.
+
+And with admins in backstage Gift cards’ management, they can view and control via a history gift card’s log; freely set expiration dates on gift cards or hide it personally; establish gift card terms and conditions; no limit in creating number of Gift card in backend;...
+
+## Full Features list Magenot 2 Gift Voucher
+
+### For Shoppers
+
+- Allows non-login buyers to view gift card
+- Easy to restrict the gift card’s value by using the price range or setting a fixed price
+- Flexibly choose desired templates for the gift card or freely upload own images
+- Allows buyers to leave their gift messages
+- Allows buyers to leave their names and the recipients’ on the gift card
+- Gift cards can be sent online or printed out to sent to the post office
+- Able to set the delivery date and time for the gift card’s arrival
+- Allows buyers to preview their gift cards and usage conditions before they’re added to cart
+- Able to purchase gift cards with a bargain
+- Allows customers to get notification when their gift cards are received
+- Enable shoppers to have their gift code redeemed to gift card balance
+- Allow quickly checking and managing gift code
+- Automatically add gift code to the gift card
+- Gift code can be used as a discount or a payment method
+- Allows multiple users to use gift code
+- Enable recipients to add gift cards to their lists by clicking the link attached to email  
+- Ability to keep track the gift code’s status and expiration date
+
+### For Admins
+
+- Allows admins to preview Gift Card before having it uploaded on the storefront
+- Allows admins to Import gift codes from CSV files
+- Allows sending gift code and gift card’s content in a printable PDF attached to the email
+- Allows to configure the Gift Card’s display on the product page and the shopping cart page
+- Enables admins to view gift card’s history
+- Allows admins to follow gift codes, customer’s gift card, credit balance and redeemed values...
+- Ability to set a price for gift card and its actual value
+- Enable and disable gift codes, Gift Card credit, redeemed gift codes
+- Restrict the gift code quantity for Gift Card products
+- Allows admins to customize gift codes
+- Enables setting the usage conditions for gift cards based on Shopping cart and Cart item conditions
+- Enables or disables gift card templates selected by customers
+- Helps following the gift card’s status in the backend
+- Automatically updates gift card’s status
+- Allows admins to develop limitless gift card products
+- Allows automatically emailing shoppers and recipients to inform about Gift Card
+- Easy to set the types of price and value for Gift Card: a range, fixed amount or a drop down
+- Enables or disables shoppers to print out gift cards
+- Allows admins to set the expiration date for gift cards
+- Enables or disables showing Gift Card expiration date
+- Options of applying gift code as discount after tax or before tax 
 - Allow using gift code as discount after or before tax
-- Allow shoppers to add their name and recipient name on Gift Card
-- Allow shoppers to write gift message
-- Manage Gift Card templates and images
-- Preview Gift Card before upload it on the storefront
-- Import gift codes from CSV files
-- Allow attaching the gift code printable PDF in the email
-- Configure Gift Card display on the product page and the shopping cart page
-
-
-## Magento 2 Gift card / Gift Voucher / Gift Certificates FAQ by Mageplaza
-
-The demand of buying and giving the gift is always one of the top concerns of any savvy retailers. Besides, buying gifts also bring a hard time for the shoppers. When you want to give someone a present, it takes much effort and time to find the suitable one but the situation when the receiver doesn’t like or suit with the gift usually happens. A survey in 2014 of the online retailer Rakuten even shows that 3 out of 4 persons won’t like the gifts they received in this season.
-
-The gift card is seen as the best and most popular present ever, especially for the holiday, when the receiver can freely choose the most desired gift for themselves. According to Bankrate, the percentage of Americans had received a gift card while 72% had given one.
-
-A smart store owner will never miss this chance to boost the sales, improve the customer experience and spread the store’s reputation when the gift cards are sent to many other customers. If you’re running a Magento 2 store, using Mageplaza Gift card extension is a perfect choice. With many outstanding features and the effortless configuration, this extension will turn your gift cards management to be easier than ever.
-
-### Customer can freely peronalize gift cards
-How amazing that the customers can freely create and personalize their own gift cards with the different values. The creating process covers almost necessary factors such as Code pattern, Balance, Status, Design, Website, Expired At or Delivery Date, etc will surely meet any business purpose.
-
-### Easily manage gift card
-It’s effortless for the users to create the new gift codes through the specific form, config and manage the gift codes following the default grid mode. The system allows you to organize the code in many factors: ID, Code, Initial Balance, Active Balance, Status, Expired At, Created At, Website, Action.
-
-### Support 3 price options
-Mageplaza Gift card extension does provide 3 price options and the user can specify 1 option among fixed price, price range, and price dropdown. No doubt you can find and set the most appreciate price option for your gift cards.
-
-### Support 3 gift card product types
-From the backend, the user can create the new product as the “Gift card” and choose their product type based on the using purpose. There are 3 product types: - Virtual - Physical - combined product (eGift, Print-out, mail)
-
-### Gift code generation
-Thanks to this feature, the user can generate the gift codes with the advanced gift code pattern. Once the pattern is set, the code which is specific for each gift card will be automatically created based on this pattern.
-
-### Eye-catching Gift card templates
-If you don’t want to take time and custom your cards, don’t worry, there are lots of eye-catching gift card templates from various of topics is ready for you to choose. Surely you can find the suitable card to make a wonderful gift to your beloved person.
-
-### Flexiable admin configuration
-Thanks to this feature, the user can generate the gift codes with the advanced gift code pattern. Once the pattern is set, the code which is specific for each gift card will be automatically created based on this pattern.
-
-### Custom email templates
-Not only support to send the gift card email, the extension does allow the users to custom their email templates to create their own charm. It’s such a great way to boost the sale online and create a good impression to the customers.
-
-### Import gift codes via CSV file
-The users can import the gift codes in bulk by using the CSV file through the admin panel. This feature is definitely effective to help in managing and generating the large inventories.
-
-### Redeem gift codes at checkout page
-With this feature, you can use the gift card and gift card balance to checkout the order. Especially, the spending slider helps the user to choose and manage the spending process easily and quickly by just drag-and-drop.
+- Enable admins to manage gift card template/image collection
 
 **Source: [https://www.mageplaza.com/magento-2-gift-card-extension/](https://www.mageplaza.com/magento-2-gift-card-extension/)**
